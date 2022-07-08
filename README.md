@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm a Computer Science and Mathematics major @ Rutgers and I'm passionate about developing apps, analyzing data, and building machine learning models!
+I'm a CS and Math double major @ Rutgers and I'm passionate about developing apps, analyzing data, and building machine learning models!
 
 - 💼 I’m currently a SWE Intern @ Cisco 
 - 🌱 I’m learning frontend development with React.js and Node.js 
